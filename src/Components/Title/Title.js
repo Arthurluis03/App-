@@ -6,7 +6,7 @@ export default function Title(){
    return( <View style={{
             width: "100%",
             height: 80,
-            backgroundColor: "#1b1b1b",
+            backgroundColor: "green",
             justifyContent: "center",
             alignItems: "flex-start",
             
